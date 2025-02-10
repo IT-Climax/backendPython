@@ -1,3 +1,5 @@
+# Week 2 class 2
+
 class3b = {"Name": "Grade"}
 names = ['Ada', 'John', 'Love', 'Peter', 'Grace', 'Glory']
 

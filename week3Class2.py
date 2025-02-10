@@ -1,3 +1,4 @@
+#Week 3
 # What are Functions?
 #
 # A function is a block of code designed to perform a specific task.

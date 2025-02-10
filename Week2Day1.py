@@ -1,3 +1,4 @@
+# Week 2 class 1
 football_players = ['Haaland', 'Messi', 'CR7', 'Neymar', 'Fabregas', 'Osime']
 
 football_players.append('Lookman')
