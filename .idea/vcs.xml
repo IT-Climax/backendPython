@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backendPython" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compound-interest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/new/compound-interest" vcs="Git" />
   </component>
 </project>
