@@ -1,0 +1,6 @@
+steve: {'english': 97}
+john: {'maths': 54}
+james: {'geography': 43}
+jim: {'art': 34}
+ezra: {'economics': 76}
+caleb: {'french': 45}
