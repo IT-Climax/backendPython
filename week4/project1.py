@@ -9,13 +9,14 @@ and return responses in JSON format.
 # Import the Flask class and jsonify function from the flask package.
 from flask import Flask, jsonify
 
+
 # Create an instance of the Flask class.
 # This instance will be our WSGI application.
 app = Flask(__name__)
 
 
 # Define a route for the home page ("/").
-@app.route("/")
+@app.route("/api/")
 def home():
     """
     The home function handles requests to the root URL.
@@ -25,13 +26,15 @@ def home():
 
 
 # Define another route for the about page ("/about").
-@app.route("/about")
+@app.route("/api/about")
 def about():
     """
     The about function handles requests to the '/about' URL.
     It returns a JSON response with a brief description.
     """
-    return jsonify({"description": "This is a simple Flask API for learning purposes."})
+    d = 23
+    b = 21
+    return jsonify({"description": b*d})
 
 
 # This block ensures that the Flask application runs only if this script is executed directly.
