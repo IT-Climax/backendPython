@@ -41,7 +41,8 @@ def init_db():
     cursor.execute("""
             CREATE TABLE IF NOT EXISTS materials (
                 material_id INTEGER PRIMARY KEY AUTOINCREMENT,
-                project_id INTEGER,
+                projec
+                t_id INTEGER,
                 material_name TEXT,
                 quantity INTEGER,
                 FOREIGN KEY(project_id) REFERENCES projects(project_id)
