@@ -1,0 +1,3 @@
+#Some files to be ignore from pushing to github
+venv
+.env
