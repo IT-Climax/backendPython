@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../cli"
+		},
+		{
+			"path": "../../extensions"
+		},
+		{
+			"path": "../../flask"
+		},
+		{
+			"path": "../../projects"
+		},
+		{
+			"path": "../../shopping"
+		},
+		{
+			"path": ".."
+		}
+	]
+}
