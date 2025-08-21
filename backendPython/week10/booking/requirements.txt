@@ -1,0 +1,8 @@
+flask
+pathlib
+python-dotenv
+PyJWT
+flask-sqlalchemy
+Flask-migrate
+flask-bcrypt
+mysqlclient
