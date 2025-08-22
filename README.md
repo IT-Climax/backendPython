@@ -1,4 +1,6 @@
 # Backend Python Journey
+IDEAS Project training student. Python skills for backend software development.
+
 
 ## Description
 This code contains all we did during the allocated time we had. Thanks to our sponsors and teachers, we were able to learn python language, how to use frameworks (e.g., Flask), backend technologies, Postman, integration of APIs. We were able to build real-life solutions using the computer, building me to gain confidence in myself from assignments to personal projects.
@@ -10,7 +12,7 @@ It all began from just `print('hello world')` and now I am a problem solver. Usi
 From consistency in my work, I've learnt that as a problem solver we should not run away from errors (bugs), but we should be able to face them because that's what makes one a great programmer.
 
 ## Acknowledgements
-Thank you so much my sponsors and mentors innovation hub for your investment in me.
+Thank you so much my sponsors IDEAS for your investment in me and Mentors Innovation Hub for taking time to teach me.
 
 ## Features
 - Python basics to advanced concepts

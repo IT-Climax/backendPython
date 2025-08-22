@@ -80,6 +80,7 @@ def fibonacci(n):
     Returns:
         int: The nth Fibonacci number.
     """
+    """
     if n <= 0:
         return "Invalid Input"
     elif n == 1:
